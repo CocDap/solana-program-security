@@ -1,0 +1,8 @@
+counter/.anchor
+.DS_Store
+counter/target
+counter/node_modules
+counter/dist
+counter/build
+counter/test-ledger
+
